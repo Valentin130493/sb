@@ -1,0 +1,20 @@
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 2px;
+    border-radius: 10px;
+    border: 2px solid black;
+    outline: none;
+}
+
+.primary {
+    max-width: 500px;
+    background-color: lightseagreen;
+    color: white;
+}
+
+.secondary {
+    background-color: #777716;
+    color: blue;
+    max-width: 350px;
+}
